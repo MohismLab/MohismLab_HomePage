@@ -1,2 +1,1 @@
-# Test
-A new repo.
+# Welcome to MohismLab.
